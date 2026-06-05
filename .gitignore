@@ -1,0 +1,5 @@
+data/
+local_rag_storage/
+__pycache__/
+*.pyc
+.DS_Store

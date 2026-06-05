@@ -1,1 +1,0 @@
-The high-throughput RAG pipeline is an asynchronous architecture. It handles memory-safe chunking and HNSW indexing for backend engineering. The system is specifically optimized to run on constrained hardware like an 8GB M2 Mac.
